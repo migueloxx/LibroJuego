@@ -45,13 +45,15 @@
         android:id="@+id/buttonContinue"
         android:layout_below="@+id/bttnuevapartida"
         android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="true" />
+        android:layout_alignParentEnd="true"
+        android:onClick="onClickContinue" />
 
     <Button
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:text="Settings"
         android:id="@+id/buttonSettings"
-        android:layout_gravity="center_horizontal" />
+        android:layout_gravity="center_horizontal"
+        android:onClick="onClickSettings" />
 
 </LinearLayout>
