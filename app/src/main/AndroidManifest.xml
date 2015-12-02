@@ -18,7 +18,8 @@
         <activity android:name=".Pantalla1" />
         <activity android:name=".Battle1" />
         <activity android:name=".Pantalla2" />
-        <activity android:name=".Pantalla3"></activity>
+        <activity android:name=".Pantalla3" />
+        <activity android:name=".PantallaFinal"></activity>
     </application>
 
 </manifest>
