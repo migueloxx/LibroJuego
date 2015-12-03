@@ -16,7 +16,6 @@ public class PantallaFinal extends AppCompatActivity {
         Uri path = Uri.parse("android.resource://es.santosgarcia.caperucita_santos/"+ R.raw.video);
         mVideoView.setVideoURI(path);
         mVideoView.start();
-        //mVideoView.requestFocus();
     }
 
 }
