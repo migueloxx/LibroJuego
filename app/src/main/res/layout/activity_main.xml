@@ -9,7 +9,8 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="es.santosgarcia.caperucita_santos.MainActivity"
     android:background="@drawable/fondomovil5"
-    android:orientation="vertical">
+    android:orientation="vertical"
+    android:weightSum="1">
 
     <ImageView
         android:layout_width="fill_parent"
@@ -55,5 +56,20 @@
         android:id="@+id/buttonSettings"
         android:layout_gravity="center_horizontal"
         android:onClick="onClickSettings" />
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:layout_width="174dp"
+            android:layout_height="57dp"
+            android:id="@+id/imageView9"
+            android:layout_row="5"
+            android:src="@drawable/facebook"
+            android:layout_column="20"
+            android:onClick="goFacebook"
+            android:layout_rowSpan="2" />
+    </GridLayout>
 
 </LinearLayout>
