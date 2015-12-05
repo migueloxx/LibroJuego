@@ -23,6 +23,7 @@
         <activity android:name=".Pantalla2" android:screenOrientation="portrait"/>
         <activity android:name=".Pantalla3" android:screenOrientation="portrait"/>
         <activity android:name=".PantallaFinal" android:screenOrientation="portrait"/>
+        <activity android:name=".PantallaFinal2" android:screenOrientation="portrait"/>
         <activity android:name=".Settings"></activity>
     </application>
 

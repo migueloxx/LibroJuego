@@ -1,5 +1,6 @@
 package es.santosgarcia.caperucita_santos;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
@@ -39,10 +40,12 @@ public class Battle1 extends AppCompatActivity {
     }
     public void ContBattle(View view, int i){
        if (i>5){
-           // abrir final bueno
+           Intent intent = new Intent(this,PantallaFinal.class);
+           startActivity(intent);
        }
         else{
-           // abrir final malo
+           Intent intent = new Intent(this,PantallaFinal2.class);
+           startActivity(intent);
        }
     }
 }
