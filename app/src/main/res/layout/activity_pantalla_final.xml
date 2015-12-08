@@ -20,7 +20,7 @@
         android:paddingRight="15dp"
         android:paddingLeft="15dp"
         android:layout_width="wrap_content"
-        android:layout_height="288dp" />
+        android:layout_height="450dp" />
 
     <ImageView
         android:layout_width="352dp"

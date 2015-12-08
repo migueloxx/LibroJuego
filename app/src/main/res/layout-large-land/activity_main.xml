@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="es.santosgarcia.caperucita_santos.MainActivity"
+    android:background="@drawable/fondomovil5"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView"
+            android:src="@drawable/caperucita"
+            android:layout_alignParentTop="true"
+            android:layout_alignLeft="@+id/bttnuevapartida"
+            android:layout_alignStart="@+id/bttnuevapartida"
+            android:layout_marginRight="15dp"
+            android:layout_gravity="right" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView2"
+            android:src="@drawable/roja"
+            android:layout_below="@+id/imageView"
+            android:layout_centerHorizontal="true" />
+    </LinearLayout>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="New..."
+        android:id="@+id/bttnuevapartida"
+        android:onClick="onClick"
+        android:layout_marginTop="150dp" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Continue"
+        android:id="@+id/buttonContinue"
+        android:layout_below="@+id/bttnuevapartida"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:onClick="onClickContinue" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Settings"
+        android:id="@+id/buttonSettings"
+        android:layout_gravity="center_horizontal"
+        android:onClick="onClickSettings" />
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:layout_width="174dp"
+            android:layout_height="57dp"
+            android:id="@+id/imageView9"
+            android:layout_row="5"
+            android:src="@drawable/facebook"
+            android:layout_column="20"
+            android:onClick="goFacebook"
+            android:layout_rowSpan="2" />
+    </GridLayout>
+
+</LinearLayout>

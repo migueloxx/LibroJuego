@@ -32,6 +32,8 @@ public class MainActivity extends AppCompatActivity {
         mediaPlayer.start();
         time = mediaPlayer.getCurrentPosition();
         Log.v(LOG_TAG, "onCreate");
+
+
     }
 
     protected void onDestroy() {
