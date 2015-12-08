@@ -28,6 +28,21 @@
         there. You must know the place," said Little Red Riding Hood. The wolf thought to himself: "Now there is a tasty bite for me. Just how
         are you going to catch her?" Then he said: "Listen, Little Red Riding Hood, havent you seen the beautiful flowers that are blossoming
         in the woods? \n \n Option A: Go to lake \n Option B: Go to grandmas House"</string>
+    <string name="title_page_1">TEST TITLE</string>
+    <string name="desc_page_1">Once upon a time there was a sweet little girl. Everyone who saw her liked her, but most of all her grandmother, who did not know what to give the child next. Once she gave her a little cap made of red velvet. Because it suited her so well, and she wanted to wear it all the time, she came to be known as Little Red Riding Hood. One day her mother said to her: "Come Little Red Riding Hood. Here is a piece of cake and a bottle of wine. Take them to your grandmother. She is sick and weak, and they will do her well. Mind your manners and give her my greetings. Behave yourself on the way, and do not leave the path, or you might fall down and break the glass, and then there will be nothing for your sick grandmother. \n \n Option A: Go to lake \n Option B: Go to grandmas House</string>
+    <string name="option_A_page_1">OPTION A</string>
+    <string name="option_B_page_1">OPTION B</string>
+    <string name="title_page_2">Title 2</string>
+    <string name="desc_page_2">Little Red Riding Hood promised to obey her mother. The grandmother lived out in the woods, a half hour from the village. When Little Red Riding Hood entered the woods a wolf came up to her. She did not know what a wicked animal he was, and was not afraid of him. "Good day to you, Little Red Riding Hood." - "Thank you, wolf." - "Where are you going so early, Little Red Riding Hood?" - "To grandmother\'s." - "And what are you carrying under your apron?" - "Grandmother is sick and weak, and I am taking her some cake and wine.\n \n Option A: Go to lake \n Option B: Go to grandmas House</string>
+    <string name="option_A_page_2">OPTION A</string>
+    <string name="option_B_page_2">OPTION B</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="desc_page_3">We baked yesterday, and they should give her strength." "Little Red Riding Hood, just where does your grandmother live?" - "Her house is a good quarter hour from here in the woods, under the three large oak trees. Theres a hedge of hazel bushes there. You must know the place," said Little Red Riding Hood. The wolf thought to himself: "Now there is a tasty bite for me. Just how are you going to catch her?" Then he said: "Listen, Little Red Riding Hood, havent you seen the beautiful flowers that are blossoming in the woods? \n \n Option A: Go to lake \n Option B: Go to grandmas House</string>
+    <string name="desc_page_4">texto pagina4</string>
+    <string name="title_page_3">titulo pagina 3</string>
+    <string name="title_page_4">titulo pagina 4</string>
 
 
 </resources>

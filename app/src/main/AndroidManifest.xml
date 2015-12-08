@@ -7,24 +7,25 @@
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true"
-
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity"
+        <activity
+            android:name=".MainActivity"
             android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
+
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Pantalla1"
-            android:configChanges="screenSize|orientation"
+        <activity
+            android:name=".Battle1"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".PantallaFinal2"
+            android:screenOrientation="portrait" />
+        <activity android:name=".Settings" />
+        <activity android:name=".BookPageActivity"
             android:screenOrientation="portrait"/>
-        <activity android:name=".Battle1" android:screenOrientation="portrait"/>
-        <activity android:name=".Pantalla2" android:screenOrientation="portrait"/>
-        <activity android:name=".Pantalla3" android:screenOrientation="portrait"/>
-        <activity android:name=".PantallaFinal" android:screenOrientation="portrait"/>
-        <activity android:name=".PantallaFinal2" android:screenOrientation="portrait"/>
-        <activity android:name=".Settings"></activity>
     </application>
 
 </manifest>

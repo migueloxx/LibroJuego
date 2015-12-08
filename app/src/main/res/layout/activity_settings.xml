@@ -44,7 +44,7 @@
     <ToggleButton
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Volume"
+        android:text="New ToggleButton"
         android:id="@+id/toggleVolume"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true" />

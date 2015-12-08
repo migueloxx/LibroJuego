@@ -7,16 +7,28 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="es.santosgarcia.caperucita_santos.Pantalla2"
+    tools:context="es.santosgarcia.caperucita_santos.Pantalla1"
     android:background="@drawable/fondomovil5"
     android:orientation="vertical"
     android:weightSum="1">
 
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/pregunta"
+        android:id="@+id/book_page_title"
+        android:layout_marginTop="15dp"
+        android:textSize="30sp"
+        android:background="#ffffff"
+        android:layout_marginBottom="15dp"
+        android:textAlignment="center" />
+
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/imgprincipal"
-        android:src="@drawable/imagen2"
+        android:id="@+id/book_page_image"
+        android:src="@drawable/imagen1"
         android:background="#ffffff"
         android:nestedScrollingEnabled="false"
         android:scaleType="centerCrop" />
@@ -32,8 +44,8 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/texto2"
-            android:id="@+id/textoprincipal"
+            android:text="@string/texto1"
+            android:id="@+id/book_page_desc"
             android:background="#ffffff"
             android:paddingLeft="15dp"
             android:paddingTop="15dp"
@@ -43,23 +55,29 @@
             android:elegantTextHeight="false" />
     </ScrollView>
 
-    <TextView
+    <LinearLayout
+        android:orientation="horizontal"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/pregunta"
-        android:id="@+id/textView2"
-        android:layout_marginTop="15dp"
-        android:textSize="30sp"
-        android:background="#ffffff"
-        android:layout_marginBottom="15dp"
-        android:textAlignment="center" />
+        android:layout_gravity="center_horizontal">
 
-    <Button
-        style="?android:attr/buttonStyleSmall"
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/cont"
-        android:id="@+id/button"
-        android:onClick="continuefin"/>
+        <Button
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/opciona"
+            android:id="@+id/book_page_buttonoptionA"
+            android:layout_weight="1"
+            android:layout_marginRight="20dp" />
+
+        <Button
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/opcionb"
+            android:id="@+id/book_page_buttonoptionB"
+            android:layout_weight="1"
+            android:layout_marginLeft="20dp" />
+    </LinearLayout>
 
 </LinearLayout>

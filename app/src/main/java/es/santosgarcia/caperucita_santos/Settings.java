@@ -10,6 +10,10 @@ public class Settings extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_settings);
     }
+
+
+
+
 /**
  ToggleButton toggle = (ToggleButton) findViewById(R.id.toggleVolume);
  toggle.OnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
