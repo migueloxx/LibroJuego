@@ -2,13 +2,13 @@
 <resources>
     <string name="app_name">Caperucita_Roja</string>
     <string name="desc_page_2">Caperucita Roja se comprometió a obedecer a su madre. La abuela vivía en el bosque, a media hora del pueblo. Cuando Caperucita Roja entró en el bosque un lobo se acercó a ella. Ella no sabía lo que un animal malvado que era, y no le tenía miedo. "Buenos días, Caperucita Roja". - "Gracias, lobo." - "¿Dónde vas tan temprano, Caperucita Roja?" - "Para abuela." - "¿Y qué llevas debajo de su delantal?" - "La abuela está enferma y débil, y yo la estoy tomando un poco de torta y vino \ n \ n Opción A: Vaya al lago \ n Opción B: Ir a casa de las abuelas.</string>
-    <string name="desc_page_1">Érase una vez hubo una niña dulce. Todo el mundo que la vio le gustaba, pero sobre todo a su abuela, que no sabía qué regalar al niño siguiente. Una vez que ella le dio un pequeño capuchón de terciopelo rojo. Debido a que le sentaba tan bien, y quería usarlo todo el tiempo, llegó a ser conocido como Caperucita Roja. Un día su madre le dijo: "Ven Caperucita Roja Aquí está un pedazo de pastel y una botella de vino llevarlos a tu abuela Ella está enferma y débil, y que hará todo lo bien Cuida tus modales y.... darle mis saludos Compórtate en el camino, y no dejar el camino, o puede que se cae y se rompe el cristal, y luego no habrá nada para su abuela enferma \ n \ n Opción A:.. Ir al lago \ n Opción B: Ir a casa de las abuelas</string>
+    <string name="desc_page_1">Érase una vez hubo una niña dulce. Todo el mundo que la vio le gustaba, pero sobre todo a su abuela, que no sabía qué regalar al niño siguiente. Una vez que ella le dio un pequeño capuchón de terciopelo rojo. Debido a que le sentaba tan bien, y quería usarlo todo el tiempo, llegó a ser conocido como Caperucita Roja. Un día su madre le dijo: "Ven Caperucita Roja Aquí está un pedazo de pastel y una botella de vino llevarlos a tu abuela Ella está enferma y débil, y que hará todo lo bien Cuida tus modales y.... darle mis saludos Compórtate en el camino, y no dejar el camino, o puede que se cae y se rompe el cristal, y luego no habrá nada para su abuela enferma </string>
     <string name="opciona">Opcion A</string>
     <string name="opcionb">Opcion B</string>
-    <string name="option_A_page_1">OPCION A</string>
-    <string name="option_A_page_2">OPCION A</string>
-    <string name="option_B_page_1">OPCION B</string>
-    <string name="option_B_page_2">OPCION B</string>
+    <string name="option_A_page_1">Ir al lago</string>
+    <string name="option_A_page_2">hablar con el lobo</string>
+    <string name="option_B_page_1">Ir a casa de la abuela</string>
+    <string name="option_B_page_2">Ir a casa de la abuela</string>
     <string name="pregunta">Elige una opcion</string>
     <string name="botonirbatalla">Lucha!!!</string>
     <string name="battle">Oh!! ¡¡El lobo te ataca!!</string>
@@ -16,4 +16,18 @@
     <string name="cont">Continua</string>
     <string name="title_activity_battle">Batalla</string>
     <string name="txtinstrucc">Consigue 5 o mas y gana la batalla</string>
+    <string name="title_page_1">Comienza la historia..</string>
+    <string name="title_page_2">El viaje</string>
+    <string name="title_page_3">El encuentro</string>
+    <string name="title_page_4">La abuelita</string>
+    <string name="desc_page_4">La abuela esperaba en casa, mienras mataba el tiempo haciendo prendas de lana y otras prendas para caperucita y su madre...</string>
+    <string name="option_A_page_3">hablar con el lobo</string>
+    <string name="option_B_page_3">Ir a casa de la abuela</string>
+    <string name="option_B_page_4">continuar historia</string>
+    <string name="texto1">texto1</string>
+    <string name="title_page_5">En el bosque</string>
+    <string name="desc_page_5">Caperucita roja paseaba feliz por el bosque mientras jugaba con las flores y se bia y se bajaba de las ramas de los arboles mientras el tiempo pasaba y pasaba</string>
+    <string name="option_A_page_5">Seguir por el bosque</string>
+    <string name="option_B_page_5">Ir a casa de la abuela</string>
+    <string name="option_A_page_4">ver Caperucita</string>
 </resources>

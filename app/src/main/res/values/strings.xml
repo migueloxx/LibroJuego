@@ -1,8 +1,6 @@
 <resources>
     <string name="app_name">Caperucita_Roja</string>
     <string name="pregunta">What´s your choice?</string>
-    <string name="opciona">Option A</string>
-    <string name="opcionb">Option B</string>
     <string name="battle">Oh! The wolf attacks you!!</string>
     <string name="botonirbatalla">Fight!!</string>
     <string name="txtinstrucc">Rolls a 5 or more to win the battle</string>
@@ -10,39 +8,30 @@
     <string name="cont">Continue</string>
 
 
-    <string name="texto1">Once upon a time there was a sweet little girl. Everyone who saw her liked her, but most of all her grandmother,
-        who did not know what to give the child next. Once she gave her a little cap made of red velvet. Because it suited her so well, and
-        she wanted to wear it all the time, she came to be known as Little Red Riding Hood. One day her mother said to her: "Come Little Red
-        Riding Hood. Here is a piece of cake and a bottle of wine. Take them to your grandmother. She is sick and weak, and they will do her well.
-        Mind your manners and give her my greetings. Behave yourself on the way, and do not leave the path, or you might fall down and break the
-        glass, and then there will be nothing for your sick grandmother. \n \n Option A: Go to lake \n Option B: Go to grandmas House"</string>
+    <string name="title_page_1">The story begins </string>
+    <string name="desc_page_1">Once upon a time there was a sweet little girl. Everyone who saw her liked her, but most of all her grandmother, who did not know what to give the child next. Once she gave her a little cap made of red velvet. Because it suited her so well, and she wanted to wear it all the time, she came to be known as Little Red Riding Hood. One day her mother said to her: "Come Little Red Riding Hood. Here is a piece of cake and a bottle of wine. Take them to your grandmother. She is sick and weak, and they will do her well. Mind your manners and give her my greetings. Behave yourself on the way, and do not leave the path, or you might fall down and break the glass, and then there will be nothing for your sick grandmother. </string>
+    <string name="option_A_page_1">Go to lake</string>
+    <string name="option_B_page_1">go to grandma\'s house</string>
+    <string name="title_page_2">Thr Trip </string>
+    <string name="desc_page_2">Little Red Riding Hood promised to obey her mother. The grandmother lived out in the woods, a half hour from the village. When Little Red Riding Hood entered the woods a wolf came up to her. She did not know what a wicked animal he was, and was not afraid of him. "Good day to you, Little Red Riding Hood." - "Thank you, wolf." - "Where are you going so early, Little Red Riding Hood?" - "To grandmother\'s." - "And what are you carrying under your apron?" - "Grandmother is sick and weak, and I am taking her some cake and wine.</string>
+    <string name="option_B_page_2">go to grandma\'s house</string>
 
-    <string name="texto2">Little Red Riding Hood promised to obey her mother. The grandmother lived out in the woods, a half hour from
-        the village. When Little Red Riding Hood entered the woods a wolf came up to her. She did not know what a wicked animal he was,
-        and was not afraid of him. "Good day to you, Little Red Riding Hood." - "Thank you, wolf." - "Where are you going so early, Little
-        Red Riding Hood?" - "To grandmother's." - "And what are you carrying under your apron?" - "Grandmother is sick and weak, and I am
-        taking her some cake and wine.\n \n Option A: Go to lake \n Option B: Go to grandmas House"</string>
-
-    <string name="texto3">We baked yesterday, and they should give her strength." "Little Red Riding Hood, just where does your grandmother
-        live?" - "Her house is a good quarter hour from here in the woods, under the three large oak trees. Theres a hedge of hazel bushes
-        there. You must know the place," said Little Red Riding Hood. The wolf thought to himself: "Now there is a tasty bite for me. Just how
-        are you going to catch her?" Then he said: "Listen, Little Red Riding Hood, havent you seen the beautiful flowers that are blossoming
-        in the woods? \n \n Option A: Go to lake \n Option B: Go to grandmas House"</string>
-    <string name="title_page_1">TEST TITLE</string>
-    <string name="desc_page_1">Once upon a time there was a sweet little girl. Everyone who saw her liked her, but most of all her grandmother, who did not know what to give the child next. Once she gave her a little cap made of red velvet. Because it suited her so well, and she wanted to wear it all the time, she came to be known as Little Red Riding Hood. One day her mother said to her: "Come Little Red Riding Hood. Here is a piece of cake and a bottle of wine. Take them to your grandmother. She is sick and weak, and they will do her well. Mind your manners and give her my greetings. Behave yourself on the way, and do not leave the path, or you might fall down and break the glass, and then there will be nothing for your sick grandmother. \n \n Option A: Go to lake \n Option B: Go to grandmas House</string>
-    <string name="option_A_page_1">OPTION A</string>
-    <string name="option_B_page_1">OPTION B</string>
-    <string name="title_page_2">Title 2</string>
-    <string name="desc_page_2">Little Red Riding Hood promised to obey her mother. The grandmother lived out in the woods, a half hour from the village. When Little Red Riding Hood entered the woods a wolf came up to her. She did not know what a wicked animal he was, and was not afraid of him. "Good day to you, Little Red Riding Hood." - "Thank you, wolf." - "Where are you going so early, Little Red Riding Hood?" - "To grandmother\'s." - "And what are you carrying under your apron?" - "Grandmother is sick and weak, and I am taking her some cake and wine.\n \n Option A: Go to lake \n Option B: Go to grandmas House</string>
-    <string name="option_A_page_2">OPTION A</string>
-    <string name="option_B_page_2">OPTION B</string>
-
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="desc_page_3">We baked yesterday, and they should give her strength." "Little Red Riding Hood, just where does your grandmother live?" - "Her house is a good quarter hour from here in the woods, under the three large oak trees. Theres a hedge of hazel bushes there. You must know the place," said Little Red Riding Hood. The wolf thought to himself: "Now there is a tasty bite for me. Just how are you going to catch her?" Then he said: "Listen, Little Red Riding Hood, havent you seen the beautiful flowers that are blossoming in the woods? \n \n Option A: Go to lake \n Option B: Go to grandmas House</string>
-    <string name="desc_page_4">texto pagina4</string>
-    <string name="title_page_3">titulo pagina 3</string>
-    <string name="title_page_4">titulo pagina 4</string>
+    <string name="desc_page_3">We baked yesterday, and they should give her strength." "Little Red Riding Hood, just where does your grandmother live?" - "Her house is a good quarter hour from here in the woods, under the three large oak trees. Theres a hedge of hazel bushes there. You must know the place," said Little Red Riding Hood. The wolf thought to himself: "Now there is a tasty bite for me. Just how are you going to catch her?" Then he said: "Listen, Little Red Riding Hood, havent you seen the beautiful flowers that are blossoming in the woods? </string>
+    <string name="desc_page_4">The grandmother was waiting at home, while killing time making woolen garments and other articles for Little Red Riding Hood and her mother ...</string>
+    <string name="title_page_3">The meeting</string>
+    <string name="title_page_4">The grandmother</string>
+    <string name="option_A_page_4">see little riding hood</string>
+    <string name="option_B_page_3">go to grandma\'s house</string>
+    <string name="option_B_page_4">continue history</string>
+    <string name="texto1">texto1</string>
+    <string name="option_A_page_2">talk to the wolf</string>
+    <string name="opciona">option A</string>
+    <string name="opcionb">option B</string>
+    <string name="title_page_5">In the forest</string>
+    <string name="desc_page_5">Happy Little Red Riding Hood walking through the woods while playing with flowers and bia and down from the branches of trees as time passed and passed</string>
+    <string name="option_A_page_5">follow the forest</string>
+    <string name="option_B_page_5">go to grandma\'s house</string>
+    <string name="option_A_page_3">talk to the wolf</string>
 
 
 </resources>

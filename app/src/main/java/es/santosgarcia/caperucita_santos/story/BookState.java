@@ -13,6 +13,10 @@ import java.io.OutputStreamWriter;
 /**
  * Created by Miguel on 07/12/2015.
  */
+
+
+// @BookState These methods keep us in a text file the game state when closed.Similarly when we give the button Continue the Start menu,
+// read the config.txt file with the saved page and page load us why we were going at the time of closing
 public class BookState {
 
     public static void writeToFile(Context ctx, String data) {

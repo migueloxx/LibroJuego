@@ -1,8 +1,11 @@
 package es.santosgarcia.caperucita_santos.story;
 
 /**
- * Created by Miguel on 06/12/2015.
+ * Created by Miguel & Santos on 06/12/2015.
+ *
  */
+
+//  @ Bookpage  This method creates us all the structure of the page
 public class BookPage {
     private int imageId;
     private int titleId;
