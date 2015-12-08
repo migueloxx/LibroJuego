@@ -32,6 +32,7 @@
     <string name="option_A_page_5">follow the forest</string>
     <string name="option_B_page_5">go to grandma\'s house</string>
     <string name="option_A_page_3">talk to the wolf</string>
+    <string name="TextoInfo">Created by:  \n  \nSantos Garcia    \n Miguel A. Nuñez  \n  \n Programacion Multimedia y dispositivos moviles \n \nUEM Madrid \n \n 2015-2016 \n</string>
 
 
 </resources>
