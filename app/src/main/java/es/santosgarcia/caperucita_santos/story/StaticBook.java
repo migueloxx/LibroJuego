@@ -26,9 +26,9 @@ public class StaticBook {
             BOOK.add(new BookPage(R.drawable.imagen5, R.string.title_page_5, R.string.desc_page_5,
                     R.string.option_A_page_5, R.string.option_B_page_5, 2, 2));
 
-            BOOK.add(new BookPage(6, 7));// Lucha
-            BOOK.add(new BookPage(R.raw.win)); //Video Final 1 Pierdes
-            BOOK.add(new BookPage(R.raw.lose)); // Video Final 2 Ganas
+            BOOK.add(new BookPage(7, 6));// Lucha
+            BOOK.add(new BookPage(R.raw.win)); //Video Final 1 Ganas
+            BOOK.add(new BookPage(R.raw.lose)); // Video Final 2 Pierdes
         }
         return BOOK;
     }
